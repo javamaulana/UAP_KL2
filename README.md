@@ -1,7 +1,5 @@
 # Harvest Moon: Game Bertani Sederhana 👨‍🌾
 
-![Harvest Moon Screenshot](https://freeimage.host/i/FuQWaRt)
-
 Harvest Moon adalah game berbasis terminal sederhana yang mensimulasikan kehidupan bertani. Tanam bibit, siram tanamanmu, panen hasilnya, jual di pasar, dan kelola keuanganmu untuk menjadi petani sukses!
 
 ---
